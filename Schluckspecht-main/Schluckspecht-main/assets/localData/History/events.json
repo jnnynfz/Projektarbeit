@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+
+        "day": 12,
+        "month": 10,
+        "year": 2023,
+
+        "country": "Indien",
+        "event": "WC",
+
+        "placement": "Qualifikation",
+        "title": "World Championship",
+        "tags": "Schluckspecht-5",
+
+        "content": "Am Donnerstagmorgen kam das Team Schluckspecht bei der World Championship des Shell Eco marathons im indischen Banaglore im Time Trial, bei dem die Teams mit einer bestimmten Energie-/Spritmenge möglichst schnell ins Ziel kommen müssen, auf Platz 6. Nach zwei Läufen lag der Schluckpecht 5 nur 9,963 Sekunden hinter dem siegreichen französischen Team von der Université Toulouse III Paul Sabatier INSA Toulouse. Das reichte um sich in der Gesamtwertung einen Platz nach vorn ebenfalls auf Rang 6 zu schieben. Das war gleichbedeutend mit der Qualifikation für den Finallauf am Donnerstagnachmittag. Zur Feier dieses Erfolgs wurde das Fahrzeug mit einem gelben Blumenkranz geschmückt.",
+        "imagePath": "assets/images/2019_Berghem.jpg"
+    },
+  
+    {
+        "id": 2,
+        "day": 9,
+        "month": 7,
+        "year": 2019,
+        "country": "England",
+        "event": "Shell-Eco Marathon",
+        "placement": "3. Platz",
+        "title": "Urban Concept Verbrennungsmotor",
+        "tags": "virtual-league",
+
+        "content": "Der Jubel am Donnerstagabend ist riesig gewesen: Nach vier Wertungsläufen belegte das Team Schluckspecht in der Klasse Urban Concept mit Verbrennungsmotor Rang 3. Damit verbesserte sich die Mannschaft um einen Platz im Vergleich zum Vorjahr. Wie immer ging es bei dem Reichweitenwettbewerb darum, mit einem Liter Kraftstoff eine möglichst lange Distanz zurückzulegen. Dabei spielen ganz unterschiedliche Faktoren eine Rolle, zum Beispiel das Gewicht von Auto und Fahrer, die Aerodynamik und das Fahren mit einer möglichst gleichmäßigen Geschwindigkeit.<< Wer bremst verliert >>, fasste Projektleiter Claus Fleig das Wesentliche kurz und knapp zusammen. Anders als im vergangenen Jahr in London war die Strecke diesmal keine Stadtroute sondern ein Rundkurs auf dem Mercedes Testgelände in Weybridge. Auf diesem musste die mit 1,5 Kilometern ganze 600 Meter längere Distanz als im vergangenen Jahr innerhalb einer vorgegebenen Zeit zurückgelegt werden.",
+        "imagePath": "assets/images/2019_England.jpg"
+    },
+
+    {
+        "id": 3,
+        "day": 13,
+        "month": 12,
+        "year": 2016,
+        "country": "Italien",
+        "event": "Fiorano Circuit",
+        "placement": "1. Platz",
+        "title": "Urban Concept Verbrennungsmotor",
+        "tags": "Verbrenner",
+
+        "content": "In der Klasse der Verbrennungsmotoren erreichte in Maranello das französische Team Microjoule-La Joliverie aus Nantes das beste Ergebnis. Sie legten mit ihrem benzinbetriebenen Prototypen 1497 Kilometer mit einem Liter zurück. Das entspricht durch Zufall gerade der Strecke von Maranello zum Austragungsort des europäischen Shell Eco marathons im Londoner Queen Elizabeth Olympic Park. Für den Wettbewerb musste das Fahrzeug zehn Runden à 1,39 Kilometer auf der Ferrari Teststrecke in maximal 34 Minuten fahren. Dann wurde der Spritverbrauch gemessen und hochgerechnet. Der Schluckspecht konnte das Ergebnis des Fahrzeuges mit Verbrennungsmotor noch toppen. Die Offenburger fuhren auf dem Fiorano Circuit mit ihrem Prototype in der Klasse der batterieelektrischen Fahrzeuge 328 Kilometer weit mit einer Kilowattstunde - der Schluckspecht war damit das energetisch sparsamste Fahrzeug im Wettbewerb. Durch den Einsatz eines selbstentwickelten hocheffizienten Elektromotors (Wirkungsgrad > 95 Prozent) wurde erheblich weniger Energie benötigt im Vergleich zu den Fahrzeugen mit Otto-Motor, die Prinzip bedingt einen schlechterem Wirkungsgrad (etwa 30 Prozent) besitzen.",
+        "imagePath": "assets/images/2016_Italien.jpg"
+    },
+
+    {
+        "id": 4,
+        "day": 26,
+        "month": 5,
+        "year": 2015,
+        "country": "England",
+        "event": "Shell-Eco Marathon",
+        "placement": "1. Platz",
+        "title": "Urban Concept Verbrennungsmotor",
+        "tags": "Verbrenner",
+
+        "content": "Der Schluckspecht 3 ist in der Prototype-Kategorie Elektro des Shell Eco-marathons gestartet. Hier sind dem Design des Fahrzeugs kaum Grenzen gesetzt, was sich in seinem markanten Chassis widerspiegelt: Die extrem kompakte Fahrzeugform ermöglicht ein geringes Fahrzeuggewicht und eine gute Aerodynamik. Dieser Prototyp wird mit einem selbst entwickelten Radnabenmotor im Hinterrad angetrieben. Die benötigte Energie erhält der Motor aus einer Wasserstoff-Brennstoffzelle. Mit dem Schluckspecht 3 gewann das Team die Brennstoffzellenklasse der Prototypen beim europäischen Shell Eco-marathon 2008. Das Resultat waren umgerechnet 3198 km mit einem Liter Benzin. Das erfolgreiche Antriebskonzept dieses Prototypen wurde in das neue Fahrzeug Schluckspecht City übernommen. Schluckspecht 5: Gegenüber seinem Vorgänger ist der Schluckspecht 5 durch eine optimierte Aerodynamik noch energieeffizienter. Die komplett neu entwickelte Karosserie aus kohlenfaserverstärktem Kunststoff (CFK) führt zu einer weiteren Gewichtsreduktion bei gleichzeitig höherer Verwindungssteifigkeit. Auch die Ergonomie und die Innenraumgestaltung ist weiter verbessert worden. So ist beispielsweise ein Touchscreen als Cockpit-Display und ein ästhetisch hoch ansprechendes Lenkrad Bestandteil der neuen Fahrzeuggeneration. Für einen leichteren Service wird die Karosserie mit weit öffnenden Motor- und Kofferraumklappen ausgestattet. Die Optik des Gesamtfahrzeugs wird durch neue Front- und Heckleuchten sowie durch eine neue Zweifarbenlackierung das Gesamtkonzept unterstrichen.",
+        "imagePath": "assets/images/2015_London.jpg"
+    },
+
+    {
+        "id": 5,
+        "day": 22,
+        "month": 5,
+        "year": 2012,
+        "country": "Niederlande",
+        "event": "Demonstrationsfahrt",
+        "placement": "Erstmaliger Einsatz",
+        "title": "… eines Stirling-Motors",
+        "tags": "Stirling Batterie",
+
+        "content": "Klassische Elektrofahrzeuge haben eine begrenzte Reichweite. An der Hochschule Offenburg werden verschiedene Möglichkeiten untersucht, die Reichweite von Elektrofahrzeugen zu vergrößern. Eine Möglichkeit ist, mit einem „Range Extender“ die Batterien während der Fahrt aufzuladen. Dazu werden üblicherweise Ottomotoren eingesetzt, sie erzeugen über Generatoren Strom zum Aufladen der Batterien. Solche Ottomotoren haben einen begrenzten Wirkungsgrad. Den besten erreichbaren Wirkungsgrad hat ein Stirlingmotor, in dem über komplizierte thermodynamische Vorgänge Wärme in Strom umgewandelt wird. Allerdings ist ein Stirlingmotor wesentlich aufwändiger und schwerer als ein Ottomotor, er hat bis jetzt noch keine Anwendung im Automobilsektor gefunden. Viele meinen, dass diese Technik zu schwer und zu komplex ist. Dass es trotzdem geht, haben jetzt Studierende der Hochschule Offenburg gezeigt.",
+        "imagePath": "assets/images/2012_Stirling.jpg"
+    },
+
+    {
+        "id": 6,
+        "day": 17,
+        "month": 2,
+        "year": 2012,
+        "country": "Südafrika",
+        "event": "Solar Challenge",
+        "placement": "Weltrekord",
+        "title": "1631,5 Kilometer mit einer Batterieladung",
+        "tags": "Stirling Batterie",
+
+        "content": "Mit diesem Weltrekord knüpft das Team an die erfolgreiche Teilnahme an der South-African Solar Challenge 2010 an, bei der 626,6 Kilometer erreicht wurden. Damals fuhr der Schluckspecht auf öffentlichen Straßen weiter als jedes andere Fahrzeug zuvor. Der Rekord ist nicht nur darauf zurückzuführen, dass das Fahrzeug ein einsitziges Experimentalfahrzeug ohne viel Komfort ist, sondern auch darauf, dass dieses Fahrzeug von Anfang an als Batteriefahrzeug konzipiert worden ist. Mit dem an der Hochschule Offenburg entwickelten Batteriemanagementsystem wurde die Last optimal auf die 14 Lithium-Cobalt-Batterieblöcke verteilt. So konnte der aktuelle Rekord des derzeitige Weltrekordinhaber, das Team des Japan Electric Vehicle Clubs, von 1003 km mit den erzielten 1631,5 km deutlich überboten werden, obwohl die Batteriekapazität nur bei 23 kWh lag und die Durchschnittsgeschwindigkeit bei 45 km/h (zum Vergleich: die Batteriekapazität des japanischen Teams lag bei 50 kWh, die Durchschnittsgeschwindigkeit bei 40 km/h).",
+        "imagePath": "assets/images/2011_Africa.jpg"
+    }
+]

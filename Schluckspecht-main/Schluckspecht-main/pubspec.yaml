@@ -1,0 +1,50 @@
+name: schluckspecht_app
+description: A new Flutter project for the schluckspecht application.
+
+publish_to: 'none'
+
+version: 0.0.1+1
+
+environment:
+  sdk: '>=2.19.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.9
+  cached_network_image: ^3.2.0
+  image: ^3.0.1
+  image_picker: ^1.0.7
+  http: ^1.1.0
+  english_words: ^4.0.0
+  provider: ^6.0.0
+  google_fonts: ^6.1.0
+  cupertino_icons: ^1.0.2
+  timeline_tile: ^2.0.0
+  path_provider: ^2.1.1
+  shared_preferences: ^2.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  flutter_email_sender: ^5.1.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+
+    - assets/localData/Feed/posts.json
+    - assets/localData/Feed/images/Gruppenfoto_2019.jpg
+    - assets/localData/Feed/images/Gruppenfoto_2022.webp
+    - assets/localData/Feed/images/Gruppenfoto_Berghem.webp
+    - assets/localData/Feed/images/Gruppenfoto_Indien.webp
+    - assets/localData/Contact/contact.json
+    - assets/images/
+    - assets/Fleig.jpg
+    - assets/HOLogo.png
+    - assets/logo1.png
+    - assets/appbarheaderimage.png
